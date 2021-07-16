@@ -59,10 +59,10 @@ function makeSound(key){
  var audio7 = new Audio("sounds/tom-2.mp3");
  audio7.play();
  break;
- case "g":
+/* case "g":
  var audio8 = new Audio("sounds/tom-8.mp3");
  audio8.play();
- break;
+ break;*/
 
  default:console.log(buttons)
 
